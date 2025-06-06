@@ -82,3 +82,9 @@ Criei um **sistema completo para RPA (Recibo de Pagamento Autônomo)** com todas
 
 
 O sistema está pronto para uso em produção e atende todas as exigências fiscais brasileiras para RPAs!
+
+
+
+
+
+
